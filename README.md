@@ -4,12 +4,15 @@ This db is the sample JSON db for Drona POC development which is having the foll
 
 	1. Menu 
 
-## Run the API in Local Environment
+## Run the API URL in Local Environment
 
-http://localhost:5000/menu
+1. npm install -g json-server
+2. npm run start
 
-## Run the API in Dev Environment
+Menu API : http://localhost:5000/menu
 
-https://my-json-server.typicode.com/ValGenesis/vg-db/menu
+## API URL in Dev Environment
+
+Menu API https://my-json-server.typicode.com/ValGenesis/vg-db/menu
 
 
