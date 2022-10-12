@@ -66,7 +66,25 @@
         "text":"System",
         "icon":"DesktopWindowsOutlined",
         "url":"",
-        "submenu":[]
+        "submenu":[
+			{ "text":"Category", "url":""},
+			{ "text":"Entity", "url":""},
+			{ "text":"Entity Status", "url":""},
+			{ "text":"Building", "url":""},
+			{ "text":"Group", "url":""},
+			{ "text":"Workflow", "url":""},
+			{ "text":"Reason", "url":""},
+			{ "text":"Content Type", "url":""},
+			{ "text":"Table", "url":""},
+			{ "text":"Mapping Keyword", "url":""},
+			{ "text":"Unique IDs", "url":""},
+			{ "text":"Form", "url":""},
+			{ "text":"Retire", "url":""},
+			{ "text":"Reference", "url":""},
+			{ "text":"Bind Object", "url":""},
+			{ "text":"Framework", "url":""},
+			{ "text":"Update Effective Date", "url":""}
+		]
     },
     {
         "text":"Assesment",
