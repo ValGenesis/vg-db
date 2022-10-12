@@ -1,4 +1,8 @@
-# Local db for POC purpose
+#Local db for POC purpose
+
+This db is the sample JSON db for Drona POC development which is having the follow tables
+
+	1. Menu 
 
 ## Run the API in Local Environment
 
