@@ -227,5 +227,19 @@
           { "id":"status-4", "title":"Completed" }
       ]
   }
+  ],
+  "execution":[
+    {
+      "list": [
+          { "id":"1", "exe_no": "OQ 15351-48-0001.01 E-01", "document_no":"OQ 15351-48-0001.01", "category":"Product", "sub_category":"Utilities","entity_name":"New Suite", "entity_no":"BOS-CCR-2020-0030.01", "content_type":"Operation Qualification","authoring_trigger":"External","target_date":"3-Nov-21","executive_summary":"NA","document_title":"Operation Qualification","description":"Description It is a long established fact that a reader will be disctracted by the readable content of a page when looking at its layout.","status":"Assinged"},
+          { "id":"2", "exe_no": "OQ 15351-48-0001.01 E-02", "document_no":"OQ 15351-48-0001.02", "category":"Product", "sub_category":"Utilities","entity_name":"Sterlizer 24", "entity_no":"STR 24", "content_type":"Operation Qualification","authoring_trigger":"External","target_date":"3-Nov-21","executive_summary":"NA","document_title":"Operation Qualification","description":"Description It is a long established fact that a reader will be disctracted by the readable content of a page when looking at its layout.","status":"Assinged"},
+          { "id":"3", "exe_no": "OQ 15351-48-0001.01 E-03", "document_no":"OQ 15351-48-0001.03", "category":"Product", "sub_category":"Utilities","entity_name":"Sterlizer STR 200", "entity_no":"STR 200", "content_type":"Operation Qualification","authoring_trigger":"External","target_date":"3-Nov-21","executive_summary":"NA","document_title":"Operation Qualification","description":"Description It is a long established fact that a reader will be disctracted by the readable content of a page when looking at its layout.","status":"Approved"},
+          { "id":"4", "exe_no": "OQ 15351-48-0001.01 E-04", "document_no":"OQ 15351-48-0001.04", "category":"Product", "sub_category":"Utilities","entity_name":"Sterlizer 2001", "entity_no":"STR 2001", "content_type":"Operation Qualification","authoring_trigger":"External","target_date":"3-Nov-21","executive_summary":"NA","document_title":"Operation Qualification","description":"Description It is a long established fact that a reader will be disctracted by the readable content of a page when looking at its layout.","status":"Approved"},
+          { "id":"5", "exe_no": "OQ 15351-48-0001.01 E-05", "document_no":"OQ 15351-48-0001.05", "category":"Product", "sub_category":"Utilities","entity_name":"Sterlizer 23", "entity_no":"STR 23", "content_type":"Operation Qualification","authoring_trigger":"External","target_date":"3-Nov-21","executive_summary":"NA","document_title":"Operation Qualification","description":"Description It is a long established fact that a reader will be disctracted by the readable content of a page when looking at its layout.","status":"Under Review"},
+          { "id":"6", "exe_no": "OQ 15351-48-0001.01 E-06", "document_no":"OQ 15351-48-0001.06", "category":"Product", "sub_category":"Utilities","entity_name":"New Suite", "entity_no":"BOS-CCR-2020-0030.01", "content_type":"Operation Qualification","authoring_trigger":"External","target_date":"3-Nov-21","executive_summary":"NA","document_title":"Operation Qualification","description":"Description It is a long established fact that a reader will be disctracted by the readable content of a page when looking at its layout.","status":"Under Review"},
+          { "id":"7", "exe_no": "OQ 15351-48-0001.01 E-07", "document_no":"OQ 15351-48-0001.07", "category":"Product", "sub_category":"Utilities","entity_name":"New Suite", "entity_no":"BOS-CCR-2020-0030.01", "content_type":"Operation Qualification","authoring_trigger":"External","target_date":"3-Nov-21","executive_summary":"NA","document_title":"Operation Qualification","description":"Description It is a long established fact that a reader will be disctracted by the readable content of a page when looking at its layout.","status":"Under Approval"}
+      ]
+    }
   ]
+
 }
