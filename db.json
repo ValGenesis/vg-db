@@ -212,13 +212,7 @@
           { "id": "task-2", "title":"task 2", "assigned_to":"Cheran", "due_date":"24-09-2022","content":"task 2 detail description", "status":"status-1"},
           { "id": "task-3", "title":"task 3", "assigned_to":"Venkat", "due_date":"24-09-2022","content":"task 3 detail description", "status":"status-1"},
           { "id": "task-4", "title":"task 4", "assigned_to":"Karnan", "due_date":"23-09-2022","content":"task 4 detail description", "status":"status-1"},
-          { "id": "task-5", "title":"task 5", "assigned_to":"Sankar", "due_date":"22-09-2022","content":"task 5 detail description", "status":"status-2"},
-          { "id": "task-6", "title":"task 6", "assigned_to":"Cheran", "due_date":"24-09-2022","content":"task 6 detail description", "status":"status-2"},
-          { "id": "task-7", "title":"task 7", "assigned_to":"Venkat", "due_date":"24-09-2022","content":"task 7 detail description", "status":"status-2"},
-          { "id": "task-8", "title":"task 8", "assigned_to":"Mohan", "due_date":"24-09-2022","content":"task 8 detail description", "status":"status-2"},
-          { "id": "task-9", "title":"task 9", "assigned_to":"Gopi", "due_date":"24-09-2022","content":"task 9 detail description", "status":"status-3"},
-          { "id": "task-10", "title":"task 10", "assigned_to":"Lingam", "due_date":"24-09-2022","content":"task 10 detail description", "status":"status-3"},
-          { "id": "task-11", "title":"task 11", "assigned_to":"Cheran", "due_date":"24-09-2022","content":"task 11 detail description", "status":"status-4"}
+          { "id": "task-5", "title":"task 5", "assigned_to":"Sankar", "due_date":"22-09-2022","content":"task 5 detail description", "status":"status-2"}
       ],
       "status" : [
           { "id":"status-1", "title":"To Do" },
